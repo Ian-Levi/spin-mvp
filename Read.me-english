@@ -1,0 +1,67 @@
+# 🚀 SPIN – The platform for young founders
+
+**SPIN** is a digital platform designed to support young, first-time entrepreneurs in building their projects.  
+We provide continuous guidance, professional mentorship, and access to funding opportunities, events, and resources in the startup ecosystem.
+
+---
+
+## 🌍 What problem does SPIN solve?
+
+Many aspiring founders face similar challenges:
+
+- Lack of funding or resources  
+- Little to no knowledge about startups and business development  
+- No network or supportive environment  
+- No tools to track progress or structure their work  
+- Difficulty finding trustworthy feedback or mentorship
+
+Meanwhile, investors and mentors struggle to find well-prepared early-stage projects worth supporting.
+
+**SPIN bridges this gap.**
+
+---
+
+## 👥 Who is SPIN for?
+
+- Students or young entrepreneurs aged 16–25  
+- With an idea or early-stage project  
+- Motivated to grow and learn  
+- Looking for a safe, collaborative environment
+
+---
+
+## ✨ MVP Features
+
+- Sign up and create a founder profile  
+- Browse and connect with other young founders  
+- Request and give feedback  
+- Weekly progress tracking via the “SPIN Tracker”  
+- Access to a trusted community and startup resources  
+
+---
+
+## 🛣️ Product Roadmap (MVP)
+
+| Phase   | Tasks                                 | Status |
+|---------|----------------------------------------|--------|
+| Phase 0 | Define MVP features + design (Figma/Canva) | ✅ |
+| Phase 1 | Build public landing page              | 🔄 |
+| Phase 2 | Select tech stack (Glide, Firebase, etc.) | ⏳ |
+| Phase 3 | Develop first version of the MVP       | ⏳ |
+| Phase 4 | User testing + feedback loop           | ⏳ |
+| Phase 5 | Launch private beta with first users   | ⏳ |
+
+---
+
+## 💡 How to contribute
+
+SPIN is in early-stage development. If you’re a developer, designer, mentor, or fellow founder who wants to support the project, you can:
+
+- Submit feedback through issues  
+- Join our user validation interviews  
+- Share suggestions or help us test the MVP  
+
+---
+
+## 📁 Project Structure
+
